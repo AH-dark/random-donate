@@ -13,7 +13,7 @@ require (
 	github.com/go-playground/validator/v10 v10.11.0
 	github.com/makiuchi-d/gozxing v0.1.1
 	github.com/mholt/archiver/v4 v4.0.0-alpha.7
-	github.com/speps/go-hashids v1.0.0
+	github.com/speps/go-hashids v2.0.0+incompatible
 	github.com/stretchr/testify v1.8.0
 	gorm.io/driver/mysql v1.3.5
 	gorm.io/driver/postgres v1.3.8
